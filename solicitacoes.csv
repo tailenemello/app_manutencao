@@ -1,2 +1,1 @@
-PASTA_PROJETO = os.path.dirname(os.path.abspath(__file__))
-ARQUIVO = os.path.join( PASTA_PROJETO, "solicitacoes.csv")
+id,nome,tipo_usuario,sala,equipamento,descricao,data,status
